@@ -1,0 +1,10 @@
+.margen{
+    margin: 50%;
+}
+.titulo{
+    text-align: center;
+}
+.texto{
+    text-align: justify;
+    margin: 5%;
+}

@@ -1,0 +1,42 @@
+.barra{
+    background: black;
+}
+.letra{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.letra2 > li >a{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.boton{
+    background: white;
+}
+.letraboton{
+    color: black;
+}
+.text1{
+    text-align: justify;
+}
+.titulos{
+    text-align: center;
+}
+.principal{
+    color: violet;
+}
+
+.margen{
+    margin: 5%;
+}
+
+.imagen12{
+    text-align: center;
+}
+
+.pie{
+    font-weight: 900;
+}
+
+.pie2{
+    background: black;
+}
